@@ -1,0 +1,28 @@
+{
+  "name": "saas",
+  "version": "1.0.0",
+  "description": "first lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "test in progress ;-)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerry75PL/SAAS-L1.git"
+  },
+  "keywords": [
+    "saas",
+    "node.js",
+    "npm",
+    "gulp"
+  ],
+  "author": "JT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerry75PL/SAAS-L1/issues"
+  },
+  "homepage": "https://github.com/jerry75PL/SAAS-L1#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
