@@ -1,5 +1,6 @@
 body {
-  color: blue; }
+  color: red;
+  background-color: blue; }
 
 nav ul {
   margin: 0;
@@ -8,4 +9,5 @@ nav ul {
   nav ul li {
     display: inline-block; }
     nav ul li a {
-      color: green; }
+      color: orange;
+      font-size: 22px; }
