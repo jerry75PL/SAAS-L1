@@ -1,9 +1,11 @@
-* {
-    box-sizing: border-box;
-}
+body {
+  color: #220000; }
 
-* {
-    transition: all 0.3s linear;
-}
-
-/*my style*/
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+  nav ul li {
+    display: inline-block; }
+    nav ul li a {
+      color: green; }
